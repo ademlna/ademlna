@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ademlna/ademlna/main/assets/planet-banner.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/ademlna/ademlna/main/assets/planet-banner.svg" width="100%"/> 
 
 <a href="https://github.com/ademlna">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&color=5EC8D8&center=true&vCenter=true&width=620&lines=Authentication+%26+Authorization+Systems;Redis+Caching+%2F+Message+Broker;MySQL+Database+Design+%26+Optimization;Docker+%2B+CI%2FCD+Deployment;AI+API+Integration+%28Claude+%2F+OpenAI%29" alt="Typing SVG" />
