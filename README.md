@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,100:12161F&height=200&section=header&text=Ade%20Maulana%20Hidayah&fontSize=38&fontColor=E8A33D&fontAlignY=35&desc=Staff%20IT%20%C2%B7%20Network%20%26%20Systems%20Support%20%C2%B7%20Web%20Developer&descAlignY=58&descColor=7C8494&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,100:12161F&height=200&section=header&text=Ade%20Maulana%20Hidayah&fontSize=38&fontColor=E8A33D&fontAlignY=35&desc=Fullstack%20Web%20Developer&descAlignY=58&descColor=7C8494&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/ademlna">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2500&pause=900&color=5EC8D8&center=true&vCenter=true&width=600&lines=Network+%26+Systems+Support;RESTful+API+Development;MySQL+%26+PostgreSQL+Database;React.js+%2F+Next.js+%2F+Node.js;Troubleshooting+%26+Problem+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2500&pause=900&color=5EC8D8&center=true&vCenter=true&width=600&lines=React.js+%2F+Next.js+%2F+TypeScript;Node.js+%2F+Express.js+REST+API;MySQL+Database+Design;Auth%2C+Role+%26+Permission;AI+Integration+%E2%80%94+Claude+API+%2F+OpenAI+API" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,29 +12,31 @@
 
 ## 👋 Tentang Saya
 
-Lulusan **S1 Sistem Informasi** (Universitas Teknologi Yogyakarta, IPK 3.57)
-dengan sertifikasi **Teknik Komputer dan Jaringan (TKJ)**. Memiliki dasar kuat
-dalam instalasi & konfigurasi **LAN/WLAN/WAN, VLAN, switching, hotspot, dan
-Mikrotik**, ditunjang pengalaman profesional di pengembangan aplikasi &
-database yang mengasah kemampuan troubleshooting sistem dan problem solving
-terstruktur.
+Fullstack Developer dengan latar belakang **S1 Sistem Informasi** dan pengalaman
+lebih dari 1 tahun membangun aplikasi web **end-to-end** — dari perancangan
+database, REST API, business logic backend, hingga antarmuka frontend. Terbiasa
+mengimplementasikan **authentication, authorization, role & permission**, serta
+melakukan debugging dan optimasi performa aplikasi. Berorientasi pada kualitas
+kode dan maintainability jangka panjang, dan aktif memanfaatkan **AI-assisted
+development** (Claude Code, GitHub Copilot) dalam alur kerja sehari-hari.
 
 📍 Yogyakarta, Indonesia &nbsp;|&nbsp; 🎓 Sistem Informasi, UTY &nbsp;|&nbsp; 🌐 [ade-maulana.my.id](https://ade-maulana.my.id)
 
 <br>
 
-## 🛠️ Keahlian
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mysql,postgres,git,github,vscode,docker,linux,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,nodejs,express,laravel,php,tailwind,bootstrap,mysql,figma,git,github,gitlab,docker,vscode&theme=dark" />
 
 </div>
 
-**Jaringan & Sistem:** LAN/WLAN/WAN · VLAN & Switching · Konfigurasi Hotspot · Mikrotik · Troubleshooting Jaringan
-**Database:** MySQL & PostgreSQL (CRUD, Query, Join, Migration, Backup)
-**Pemrograman & Web:** PHP · JavaScript · TypeScript · Node.js · Express.js · React.js · Next.js · RESTful API
-**Tools:** Git · GitHub · GitLab · Postman · Docker (Basic)
+**Bahasa:** PHP · JavaScript · TypeScript · HTML5 · CSS3
+**Framework & Library:** Next.js · React.js · Express.js · Laravel · Tailwind CSS · Bootstrap
+**Database & API:** MySQL (CRUD, Query, Join, Migration, Backup) · RESTful API · Postman
+**AI-Assisted Dev:** Claude Code · GitHub Copilot · Claude API / OpenAI API · Prompt Engineering
+**Deployment & Tools:** Git · GitHub · GitLab CI/CD · Docker (Basic) · Linux Ubuntu (Basic) · Figma
 
 <br>
 
@@ -43,13 +45,11 @@ terstruktur.
 ```txt
 Feb 2024 – Jan 2025   Web Programmer Intern @ PT. Gama Integra Informatika
                       → 60+ RESTful API & sistem autentikasi (Babinsa Messenger System)
-                      → Kelola database MySQL, dokumentasi teknis & Postman Collection
+                      → Dokumentasi teknis, Postman Collection & SOP pengembangan
+                      → AI-assisted coding (Claude Code) untuk mempercepat dev & debugging
 
 Jul 2024 – Sep 2024   Data Entry @ Patra Data (Freelance)
                       → Validasi data Pemilu 2.860 TPS, akurasi 99,7%
-
-Masa Sekolah          Proyek Jaringan Lab & Server Ujian @ SMK Negeri 1 Tuntang
-                      → Bangun jaringan server ujian berbasis Mikrotik
 ```
 
 <br>
@@ -67,9 +67,19 @@ Masa Sekolah          Proyek Jaringan Lab & Server Ujian @ SMK Negeri 1 Tuntang
 
 </div>
 
-- **Personal Profile Website with AI Assistant** — Next.js, React, Groq AI SDK, Supabase, Redis. Portfolio interaktif dengan AI assistant real-time. 🔗 [ade-maulana.my.id](https://ade-maulana.my.id)
-- **Pelaporan Training Berbasis Web** — React.js, Node.js, Express.js, MySQL. Antarmuka responsif sesuai desain Figma, terintegrasi REST API.
-- **Babinsa Messenger System (Backend)** — Node.js, Express.js, MySQL, Redis, Docker. Backend API dengan Redis message broker, deploy ke server Linux.
+**🌐 Personal Profile Website with AI Assistant**
+`Next.js · React · Groq AI SDK · Supabase · Redis`
+Portfolio interaktif dengan AI assistant real-time, integrasi Supabase (DB & auth) dan Upstash Redis (caching/rate limiting), fitur generate/parsing dokumen PDF/Word, QR code generator, code preview dengan Monaco Editor, upload file, dan notifikasi email otomatis (Nodemailer).
+🔗 [ade-maulana.my.id](https://ade-maulana.my.id)
+
+**📋 Pelaporan Training Berbasis Web (Frontend)**
+`React.js · Node.js · Express.js · MySQL`
+Antarmuka responsif sesuai desain Figma, terintegrasi REST API backend, deployment & optimasi performa di sisi hosting/server.
+🔗 [github.com/ademlna/training-report-gii](https://github.com/ademlna/training-report-gii)
+
+**📡 Babinsa Messenger System (Backend)**
+`Node.js · Express.js · MySQL · Redis · Docker`
+Backend API dengan Redis sebagai message broker/in-memory cache, reconnection logic client-server, deployment via Docker ke server Linux.
 
 <br>
 
