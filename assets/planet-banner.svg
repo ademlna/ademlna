@@ -1,8 +1,8 @@
 <svg viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <filter id="hueShift" x="-50%" y="-50%" width="200%" height="200%">
-      <feColorMatrix type="hueRotate" values="90">
-        <animate attributeName="values" values="90;150;210;150;90" dur="8s" repeatCount="indefinite"/>
+      <feColorMatrix type="hueRotate" values="0">
+        <animate attributeName="values" values="-15;15;-15" dur="8s" repeatCount="indefinite"/>
       </feColorMatrix>
     </filter>
 
